@@ -122,7 +122,3 @@ This project is open-source and available for use and modification.
 ## Author
 
 This QA system was created as a demonstration of using TF-IDF and NLTK for simple question-answering tasks.
-
----
-
-Save this as `README.md` in your project directory for easy reference and sharing!
