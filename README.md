@@ -1,7 +1,3 @@
-Here's a `README.md` file template for your Question Answering (QA) system using NLTK and TF-IDF:
-
----
-
 # Question Answering System Using NLTK and TF-IDF
 
 This project is a simple **Question Answering (QA) System** built using **Python**, **NLTK** for text preprocessing, and **TF-IDF** (Term Frequency-Inverse Document Frequency) for text vectorization. This system answers factual questions by finding the most relevant response from a set of documents based on similarity scoring.
